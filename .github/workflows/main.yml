@@ -69,8 +69,10 @@ jobs:
         fi
     - name: Convert to parquet and db
       run: |-
-        python data_prep.py
-        python parquet_to_db.py
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        uv sync
+        uv run data_prep.py
+        uv run python parquet_to_db.py
     - name: Commit and push
       run: |-
         git config user.name "Automated"
