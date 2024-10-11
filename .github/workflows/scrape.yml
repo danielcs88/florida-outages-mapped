@@ -67,6 +67,10 @@ jobs:
           | jq > outage.tecoenergy.com/outage.json; then
           echo "Failed to scrape outage.tecoenergy.com, but continuing..."
         fi
+    - name: Convert to parquet and db
+      run: |-
+        python data_prep.py
+        python parquet_to_db.py
     - name: Commit and push
       run: |-
         git config user.name "Automated"
