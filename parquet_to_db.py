@@ -49,7 +49,7 @@ def main():
     # sqlite_db = 'custom_output_path/output.db'  # Replace with your desired database file path
 
     # Convert parquet files to SQLite
-    parquet_to_sqlite(parquet_folder)
+    parquet_to_sqlite(parquet_folder, "fl_outages")
 
 
 if __name__ == "__main__":
