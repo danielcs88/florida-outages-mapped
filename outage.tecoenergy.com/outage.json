@@ -1,5 +1,5 @@
 {
-  "took": 0,
+  "took": 1,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-a900824f-2d85-4dfb-aced-70bb93773c31",
-        "_id": "31PQ9ZIByckvcAhRUsLv",
+        "_index": "geopoints-prod-5e271d6f-2172-4a22-87bc-5bc236d054df",
+        "_id": "2qzn9ZIByzIO-BRUMVZ1",
         "_score": null,
         "_source": {
           "incidentId": "A202429811035",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-04T02:26:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-04T01:15:11"
+          "updateTime": "2024-11-04T01:40:09"
         },
         "sort": [
-          1730682911000,
+          1730684409000,
           "A202429811035"
         ]
       },
       {
-        "_index": "geopoints-prod-a900824f-2d85-4dfb-aced-70bb93773c31",
-        "_id": "21PQ9ZIByckvcAhRUsLv",
+        "_index": "geopoints-prod-5e271d6f-2172-4a22-87bc-5bc236d054df",
+        "_id": "2Kzn9ZIByzIO-BRUMVZ1",
         "_score": null,
         "_source": {
           "incidentId": "A202430877164",
@@ -48,17 +48,17 @@
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-04T02:26:00",
           "reason": "Damage to Tampa Electric equipment",
-          "status": "Additional support enroute",
-          "updateTime": "2024-11-04T01:15:11"
+          "status": "We're on our way to investigate",
+          "updateTime": "2024-11-04T01:40:09"
         },
         "sort": [
-          1730682911000,
+          1730684409000,
           "A202430877164"
         ]
       },
       {
-        "_index": "geopoints-prod-a900824f-2d85-4dfb-aced-70bb93773c31",
-        "_id": "3FPQ9ZIByckvcAhRUsLv",
+        "_index": "geopoints-prod-5e271d6f-2172-4a22-87bc-5bc236d054df",
+        "_id": "1qzn9ZIByzIO-BRUMVZ1",
         "_score": null,
         "_source": {
           "incidentId": "A202430877271",
@@ -70,16 +70,16 @@
           "estimatedTimeOfRestoration": "2024-11-04T02:26:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-04T01:15:11"
+          "updateTime": "2024-11-04T01:40:09"
         },
         "sort": [
-          1730682911000,
+          1730684409000,
           "A202430877271"
         ]
       },
       {
-        "_index": "geopoints-prod-a900824f-2d85-4dfb-aced-70bb93773c31",
-        "_id": "3lPQ9ZIByckvcAhRUsLv",
+        "_index": "geopoints-prod-5e271d6f-2172-4a22-87bc-5bc236d054df",
+        "_id": "16zn9ZIByzIO-BRUMVZ1",
         "_score": null,
         "_source": {
           "incidentId": "A202430877368",
@@ -91,16 +91,16 @@
           "estimatedTimeOfRestoration": "2024-11-04T02:26:00",
           "reason": "Under investigation",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-04T01:15:11"
+          "updateTime": "2024-11-04T01:40:09"
         },
         "sort": [
-          1730682911000,
+          1730684409000,
           "A202430877368"
         ]
       },
       {
-        "_index": "geopoints-prod-a900824f-2d85-4dfb-aced-70bb93773c31",
-        "_id": "3VPQ9ZIByckvcAhRUsLv",
+        "_index": "geopoints-prod-5e271d6f-2172-4a22-87bc-5bc236d054df",
+        "_id": "2azn9ZIByzIO-BRUMVZ1",
         "_score": null,
         "_source": {
           "incidentId": "A202430901108",
@@ -110,12 +110,12 @@
           ],
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-04T07:00:00",
-          "reason": "Pending Investigation",
-          "status": "We're on our way to investigate",
-          "updateTime": "2024-11-04T01:15:11"
+          "reason": "Damage to Tampa Electric equipment",
+          "status": "Additional support enroute",
+          "updateTime": "2024-11-04T01:40:09"
         },
         "sort": [
-          1730682911000,
+          1730684409000,
           "A202430901108"
         ]
       }
