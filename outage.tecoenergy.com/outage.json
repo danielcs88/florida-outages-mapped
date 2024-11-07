@@ -1,5 +1,5 @@
 {
-  "took": 0,
+  "took": 1,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-2156c9b7-c7fb-4d3d-8848-2158324f7dab",
-        "_id": "Za6_BZMByzIO-BRUHxdu",
+        "_index": "geopoints-prod-694062f0-4dd5-4c7e-bc95-953d3bf673f6",
+        "_id": "w67MBZMByzIO-BRU3RgS",
         "_score": null,
         "_source": {
           "incidentId": "A202431005260",
@@ -25,19 +25,19 @@
             28.424669995950147
           ],
           "customerCount": 2,
-          "estimatedTimeOfRestoration": "2024-11-07T04:05:00",
+          "estimatedTimeOfRestoration": "2024-11-07T05:35:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-07T03:30:10"
+          "updateTime": "2024-11-07T03:45:10"
         },
         "sort": [
-          1730950210000,
+          1730951110000,
           "A202431005260"
         ]
       },
       {
-        "_index": "geopoints-prod-2156c9b7-c7fb-4d3d-8848-2158324f7dab",
-        "_id": "Zq6_BZMByzIO-BRUHxdu",
+        "_index": "geopoints-prod-694062f0-4dd5-4c7e-bc95-953d3bf673f6",
+        "_id": "xK7MBZMByzIO-BRU3RgT",
         "_score": null,
         "_source": {
           "incidentId": "A202431116918",
@@ -46,19 +46,19 @@
             28.00308487305631
           ],
           "customerCount": 9,
-          "estimatedTimeOfRestoration": "2024-11-07T04:05:00",
+          "estimatedTimeOfRestoration": "2024-11-07T05:35:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "We're working onsite",
-          "updateTime": "2024-11-07T03:30:10"
+          "updateTime": "2024-11-07T03:45:10"
         },
         "sort": [
-          1730950210000,
+          1730951110000,
           "A202431116918"
         ]
       },
       {
-        "_index": "geopoints-prod-2156c9b7-c7fb-4d3d-8848-2158324f7dab",
-        "_id": "ZK6_BZMByzIO-BRUHxdu",
+        "_index": "geopoints-prod-694062f0-4dd5-4c7e-bc95-953d3bf673f6",
+        "_id": "wq7MBZMByzIO-BRU3RgS",
         "_score": null,
         "_source": {
           "incidentId": "A202431202678",
@@ -70,10 +70,10 @@
           "estimatedTimeOfRestoration": "2024-11-07T09:00:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-07T03:30:10"
+          "updateTime": "2024-11-07T03:45:10"
         },
         "sort": [
-          1730950210000,
+          1730951110000,
           "A202431202678"
         ]
       }
