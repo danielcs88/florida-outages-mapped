@@ -1,5 +1,5 @@
 {
-  "took": 0,
+  "took": 1,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-ce51850b-4139-4593-932b-515a344d6b0c",
-        "_id": "R69fFJMByzIO-BRUksYP",
+        "_index": "geopoints-prod-ec644d49-a59e-449d-9e50-12170a89f1f0",
+        "_id": "XlV7FJMByckvcAhRAZrJ",
         "_score": null,
         "_source": {
           "incidentId": "A202431005260",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-10T13:06:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-09T23:40:10"
+          "updateTime": "2024-11-10T00:10:10"
         },
         "sort": [
-          1731195610000,
+          1731197410000,
           "A202431005260"
         ]
       },
       {
-        "_index": "geopoints-prod-ce51850b-4139-4593-932b-515a344d6b0c",
-        "_id": "Ra9fFJMByzIO-BRUksYP",
+        "_index": "geopoints-prod-ec644d49-a59e-449d-9e50-12170a89f1f0",
+        "_id": "XFV7FJMByckvcAhRAZrJ",
         "_score": null,
         "_source": {
           "incidentId": "A202431415806",
@@ -49,16 +49,16 @@
           "estimatedTimeOfRestoration": "2024-11-10T08:19:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-09T23:40:10"
+          "updateTime": "2024-11-10T00:10:10"
         },
         "sort": [
-          1731195610000,
+          1731197410000,
           "A202431415806"
         ]
       },
       {
-        "_index": "geopoints-prod-ce51850b-4139-4593-932b-515a344d6b0c",
-        "_id": "Rq9fFJMByzIO-BRUksYP",
+        "_index": "geopoints-prod-ec644d49-a59e-449d-9e50-12170a89f1f0",
+        "_id": "XVV7FJMByckvcAhRAZrJ",
         "_score": null,
         "_source": {
           "incidentId": "A202431418271",
@@ -69,17 +69,17 @@
           "customerCount": 12,
           "estimatedTimeOfRestoration": "2024-11-10T04:00:00",
           "reason": "Tree or tree limbs in contact with equipment",
-          "status": "Additional support enroute",
-          "updateTime": "2024-11-09T23:40:10"
+          "status": "We're working onsite",
+          "updateTime": "2024-11-10T00:10:10"
         },
         "sort": [
-          1731195610000,
+          1731197410000,
           "A202431418271"
         ]
       },
       {
-        "_index": "geopoints-prod-ce51850b-4139-4593-932b-515a344d6b0c",
-        "_id": "RK9fFJMByzIO-BRUksYP",
+        "_index": "geopoints-prod-ec644d49-a59e-449d-9e50-12170a89f1f0",
+        "_id": "W1V7FJMByckvcAhRAZrJ",
         "_score": null,
         "_source": {
           "incidentId": "A202431422056",
@@ -91,10 +91,10 @@
           "estimatedTimeOfRestoration": "2024-11-10T02:50:00",
           "reason": "Tree or tree limbs in contact with equipment",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-09T23:40:10"
+          "updateTime": "2024-11-10T00:10:10"
         },
         "sort": [
-          1731195610000,
+          1731197410000,
           "A202431422056"
         ]
       }
