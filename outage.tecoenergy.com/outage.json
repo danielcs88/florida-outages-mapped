@@ -1,5 +1,5 @@
 {
-  "took": 1,
+  "took": 0,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-e7827756-047b-4cb3-b7c3-d5db18e87bd7",
-        "_id": "F1XoFJMByckvcAhR96IZ",
+        "_index": "geopoints-prod-2947e0b1-c301-4fa2-955d-38e924883684",
+        "_id": "oVX2FJMByckvcAhRlqIz",
         "_score": null,
         "_source": {
           "incidentId": "A202431005260",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-10T13:06:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-10T02:10:11"
+          "updateTime": "2024-11-10T02:25:13"
         },
         "sort": [
-          1731204611000,
+          1731205513000,
           "A202431005260"
         ]
       },
       {
-        "_index": "geopoints-prod-e7827756-047b-4cb3-b7c3-d5db18e87bd7",
-        "_id": "FVXoFJMByckvcAhR96IZ",
+        "_index": "geopoints-prod-2947e0b1-c301-4fa2-955d-38e924883684",
+        "_id": "n1X2FJMByckvcAhRlqIz",
         "_score": null,
         "_source": {
           "incidentId": "A202431415806",
@@ -49,16 +49,16 @@
           "estimatedTimeOfRestoration": "2024-11-10T08:19:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-10T02:10:11"
+          "updateTime": "2024-11-10T02:25:13"
         },
         "sort": [
-          1731204611000,
+          1731205513000,
           "A202431415806"
         ]
       },
       {
-        "_index": "geopoints-prod-e7827756-047b-4cb3-b7c3-d5db18e87bd7",
-        "_id": "FlXoFJMByckvcAhR96IZ",
+        "_index": "geopoints-prod-2947e0b1-c301-4fa2-955d-38e924883684",
+        "_id": "oFX2FJMByckvcAhRlqIz",
         "_score": null,
         "_source": {
           "incidentId": "A202431422056",
@@ -67,13 +67,13 @@
             28.29971999655757
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-10T02:50:00",
+          "estimatedTimeOfRestoration": "2024-11-10T10:20:00",
           "reason": "Tree or tree limbs in contact with equipment",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-10T02:10:11"
+          "updateTime": "2024-11-10T02:25:13"
         },
         "sort": [
-          1731204611000,
+          1731205513000,
           "A202431422056"
         ]
       }
