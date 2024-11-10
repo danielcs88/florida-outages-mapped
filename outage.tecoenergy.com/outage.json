@@ -1,5 +1,5 @@
 {
-  "took": 3,
+  "took": 1,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -9,14 +9,14 @@
   },
   "hits": {
     "total": {
-      "value": 10,
+      "value": 9,
       "relation": "eq"
     },
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "Y7BXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "glVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431005260",
@@ -25,19 +25,19 @@
             28.424669995950147
           ],
           "customerCount": 2,
-          "estimatedTimeOfRestoration": "2024-11-10T18:44:00",
+          "estimatedTimeOfRestoration": "2024-11-10T22:14:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431005260"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "ZLBXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "elVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431509425",
@@ -48,38 +48,17 @@
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-10T22:42:00",
           "reason": "Damage to Tampa Electric equipment",
-          "status": "Additional support enroute",
-          "updateTime": "2024-11-10T18:10:12"
+          "status": "We're working onsite",
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431509425"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "bLBXGJMByzIO-BRU0TME",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431513934",
-          "polygonCenter": [
-            -82.49968600028545,
-            28.069583996702626
-          ],
-          "customerCount": 2,
-          "estimatedTimeOfRestoration": "2024-11-11T02:10:00",
-          "reason": "Damage to Tampa Electric equipment",
-          "status": "We're working onsite",
-          "updateTime": "2024-11-10T18:10:12"
-        },
-        "sort": [
-          1731262212000,
-          "A202431513934"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "ZbBXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "flVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431514400",
@@ -91,16 +70,16 @@
           "estimatedTimeOfRestoration": "2024-11-11T02:30:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431514400"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "abBXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "fVVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431514757",
@@ -112,16 +91,16 @@
           "estimatedTimeOfRestoration": "2024-11-11T02:50:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431514757"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "ZrBXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "f1VlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431515019",
@@ -133,16 +112,16 @@
           "estimatedTimeOfRestoration": "2024-11-11T03:10:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "We're working onsite",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431515019"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "aLBXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "fFVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431515890",
@@ -154,16 +133,16 @@
           "estimatedTimeOfRestoration": "2024-11-10T21:50:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431515890"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "arBXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "e1VlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431516021",
@@ -175,16 +154,16 @@
           "estimatedTimeOfRestoration": "2024-11-10T22:00:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431516021"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "a7BXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "gVVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431517121",
@@ -196,16 +175,16 @@
           "estimatedTimeOfRestoration": "2024-11-11T05:20:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431517121"
         ]
       },
       {
-        "_index": "geopoints-prod-9f614008-92b8-43c8-bcf0-3d5c8fdbffb1",
-        "_id": "Z7BXGJMByzIO-BRU0TME",
+        "_index": "geopoints-prod-261c3591-0e4c-4739-92f4-1c8885b3e292",
+        "_id": "gFVlGJMByckvcAhRjdvb",
         "_score": null,
         "_source": {
           "incidentId": "A202431517546",
@@ -217,10 +196,10 @@
           "estimatedTimeOfRestoration": "2024-11-11T05:40:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-10T18:10:12"
+          "updateTime": "2024-11-10T18:25:12"
         },
         "sort": [
-          1731262212000,
+          1731263112000,
           "A202431517546"
         ]
       }
