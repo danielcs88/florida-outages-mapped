@@ -1,5 +1,5 @@
 {
-  "took": 1,
+  "took": 0,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-5cce517e-c6ef-46b7-b3d5-664d536ab1ea",
-        "_id": "QbCPGpMByzIO-BRUZWwQ",
+        "_index": "geopoints-prod-de22d852-114f-43f6-a41e-d8adab48d48b",
+        "_id": "s7CYGpMByzIO-BRUs2wV",
         "_score": null,
         "_source": {
           "incidentId": "A202431005260",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-11T10:14:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-11T04:30:11"
+          "updateTime": "2024-11-11T04:40:10"
         },
         "sort": [
-          1731299411000,
+          1731300010000,
           "A202431005260"
         ]
       },
       {
-        "_index": "geopoints-prod-5cce517e-c6ef-46b7-b3d5-664d536ab1ea",
-        "_id": "QLCPGpMByzIO-BRUZWwQ",
+        "_index": "geopoints-prod-de22d852-114f-43f6-a41e-d8adab48d48b",
+        "_id": "srCYGpMByzIO-BRUs2wV",
         "_score": null,
         "_source": {
           "incidentId": "A202431520037",
@@ -49,16 +49,16 @@
           "estimatedTimeOfRestoration": "2024-11-11T08:10:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-11T04:30:11"
+          "updateTime": "2024-11-11T04:40:10"
         },
         "sort": [
-          1731299411000,
+          1731300010000,
           "A202431520037"
         ]
       },
       {
-        "_index": "geopoints-prod-5cce517e-c6ef-46b7-b3d5-664d536ab1ea",
-        "_id": "P7CPGpMByzIO-BRUZWwQ",
+        "_index": "geopoints-prod-de22d852-114f-43f6-a41e-d8adab48d48b",
+        "_id": "sbCYGpMByzIO-BRUs2wV",
         "_score": null,
         "_source": {
           "incidentId": "A202431602308",
@@ -68,12 +68,12 @@
           ],
           "customerCount": 6,
           "estimatedTimeOfRestoration": "2024-11-11T14:10:00",
-          "reason": "Pending Investigation",
-          "status": "We're working onsite",
-          "updateTime": "2024-11-11T04:30:11"
+          "reason": "Under investigation",
+          "status": "Additional support enroute",
+          "updateTime": "2024-11-11T04:40:10"
         },
         "sort": [
-          1731299411000,
+          1731300010000,
           "A202431602308"
         ]
       }
