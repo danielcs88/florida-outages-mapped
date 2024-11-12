@@ -1,5 +1,5 @@
 {
-  "took": 0,
+  "took": 1,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -9,14 +9,14 @@
   },
   "hits": {
     "total": {
-      "value": 4,
+      "value": 5,
       "relation": "eq"
     },
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-d70b3364-2697-4c3c-9b97-ce7f6e3e2a30",
-        "_id": "orF2IJMByzIO-BRUBgVS",
+        "_index": "geopoints-prod-ed0ed1ff-1822-4eaa-ba93-6d06ab170c4e",
+        "_id": "OLGRIJMByzIO-BRUiwgn",
         "_score": null,
         "_source": {
           "incidentId": "A202431701807",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-12T14:10:00",
           "reason": "Tree or tree limbs in contact with equipment",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-12T08:00:10"
+          "updateTime": "2024-11-12T08:30:11"
         },
         "sort": [
-          1731398410000,
+          1731400211000,
           "A202431701807"
         ]
       },
       {
-        "_index": "geopoints-prod-d70b3364-2697-4c3c-9b97-ce7f6e3e2a30",
-        "_id": "o7F2IJMByzIO-BRUBgVS",
+        "_index": "geopoints-prod-ed0ed1ff-1822-4eaa-ba93-6d06ab170c4e",
+        "_id": "ObGRIJMByzIO-BRUiwgn",
         "_score": null,
         "_source": {
           "incidentId": "A202431706887",
@@ -47,18 +47,18 @@
           ],
           "customerCount": 3,
           "estimatedTimeOfRestoration": "2024-11-12T18:10:00",
-          "reason": "Pending Investigation",
-          "status": "We're working onsite",
-          "updateTime": "2024-11-12T08:00:10"
+          "reason": "Damage to Tampa Electric equipment",
+          "status": "Additional support enroute",
+          "updateTime": "2024-11-12T08:30:11"
         },
         "sort": [
-          1731398410000,
+          1731400211000,
           "A202431706887"
         ]
       },
       {
-        "_index": "geopoints-prod-d70b3364-2697-4c3c-9b97-ce7f6e3e2a30",
-        "_id": "oLF2IJMByzIO-BRUBgVS",
+        "_index": "geopoints-prod-ed0ed1ff-1822-4eaa-ba93-6d06ab170c4e",
+        "_id": "NrGRIJMByzIO-BRUiwgn",
         "_score": null,
         "_source": {
           "incidentId": "A202431707661",
@@ -70,16 +70,16 @@
           "estimatedTimeOfRestoration": "2024-11-12T18:50:00",
           "reason": "Pending Investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-12T08:00:10"
+          "updateTime": "2024-11-12T08:30:11"
         },
         "sort": [
-          1731398410000,
+          1731400211000,
           "A202431707661"
         ]
       },
       {
-        "_index": "geopoints-prod-d70b3364-2697-4c3c-9b97-ce7f6e3e2a30",
-        "_id": "obF2IJMByzIO-BRUBgVS",
+        "_index": "geopoints-prod-ed0ed1ff-1822-4eaa-ba93-6d06ab170c4e",
+        "_id": "N7GRIJMByzIO-BRUiwgn",
         "_score": null,
         "_source": {
           "incidentId": "A202431708109",
@@ -90,12 +90,33 @@
           "customerCount": 5,
           "estimatedTimeOfRestoration": "2024-11-12T19:20:00",
           "reason": "Pending Investigation",
-          "status": "We're on our way to investigate",
-          "updateTime": "2024-11-12T08:00:10"
+          "status": "We're working onsite",
+          "updateTime": "2024-11-12T08:30:11"
         },
         "sort": [
-          1731398410000,
+          1731400211000,
           "A202431708109"
+        ]
+      },
+      {
+        "_index": "geopoints-prod-ed0ed1ff-1822-4eaa-ba93-6d06ab170c4e",
+        "_id": "NbGRIJMByzIO-BRUiwgn",
+        "_score": null,
+        "_source": {
+          "incidentId": "A202431708851",
+          "polygonCenter": [
+            -82.31941355450789,
+            27.91315010446084
+          ],
+          "customerCount": 1,
+          "estimatedTimeOfRestoration": "2024-11-12T14:10:00",
+          "reason": "Pending Investigation",
+          "status": "We're aware of the outage",
+          "updateTime": "2024-11-12T08:30:11"
+        },
+        "sort": [
+          1731400211000,
+          "A202431708851"
         ]
       }
     ]
