@@ -1,5 +1,5 @@
 {
-  "took": 1,
+  "took": 0,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-d8f3dc4c-07a7-4c09-a160-43e2ba768019",
-        "_id": "flbcJJMByckvcAhRL5qf",
+        "_index": "geopoints-prod-fa372534-58cc-4a97-97bb-2b1aa9e42f8b",
+        "_id": "21blJJMByckvcAhRRZpX",
         "_score": null,
         "_source": {
           "incidentId": "A202431721917",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T08:52:00",
           "reason": "Weather-related damage to equipment",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T04:30:12"
+          "updateTime": "2024-11-13T04:40:11"
         },
         "sort": [
-          1731472212000,
+          1731472811000,
           "A202431721917"
         ]
       },
       {
-        "_index": "geopoints-prod-d8f3dc4c-07a7-4c09-a160-43e2ba768019",
-        "_id": "f1bcJJMByckvcAhRL5qf",
+        "_index": "geopoints-prod-fa372534-58cc-4a97-97bb-2b1aa9e42f8b",
+        "_id": "3FblJJMByckvcAhRRZpX",
         "_score": null,
         "_source": {
           "incidentId": "A202431803181",
@@ -49,10 +49,10 @@
           "estimatedTimeOfRestoration": "2024-11-13T16:00:00",
           "reason": "Pending Investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T04:30:12"
+          "updateTime": "2024-11-13T04:40:11"
         },
         "sort": [
-          1731472212000,
+          1731472811000,
           "A202431803181"
         ]
       }
