@@ -1,5 +1,5 @@
 {
-  "took": 1,
+  "took": 2,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-ac9fe5ab-b436-4691-a732-664b3818fc0d",
-        "_id": "CrEJJJMByzIO-BRUnksP",
+        "_index": "geopoints-prod-f3acdf7b-d677-42a2-9291-2cd2f7246c8a",
+        "_id": "zrEpJJMByzIO-BRUn0wD",
         "_score": null,
         "_source": {
           "incidentId": "A202431720285",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T08:10:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T00:40:11"
+          "updateTime": "2024-11-13T01:15:10"
         },
         "sort": [
-          1731458411000,
+          1731460510000,
           "A202431720285"
         ]
       },
       {
-        "_index": "geopoints-prod-ac9fe5ab-b436-4691-a732-664b3818fc0d",
-        "_id": "CLEJJJMByzIO-BRUnksP",
+        "_index": "geopoints-prod-f3acdf7b-d677-42a2-9291-2cd2f7246c8a",
+        "_id": "zLEpJJMByzIO-BRUn0wD",
         "_score": null,
         "_source": {
           "incidentId": "A202431721917",
@@ -49,16 +49,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T04:20:00",
           "reason": "Weather-related damage to equipment",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-13T00:40:11"
+          "updateTime": "2024-11-13T01:15:10"
         },
         "sort": [
-          1731458411000,
+          1731460510000,
           "A202431721917"
         ]
       },
       {
-        "_index": "geopoints-prod-ac9fe5ab-b436-4691-a732-664b3818fc0d",
-        "_id": "CbEJJJMByzIO-BRUnksP",
+        "_index": "geopoints-prod-f3acdf7b-d677-42a2-9291-2cd2f7246c8a",
+        "_id": "zbEpJJMByzIO-BRUn0wD",
         "_score": null,
         "_source": {
           "incidentId": "A202431800492",
@@ -69,11 +69,11 @@
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-13T06:40:00",
           "reason": "Pending Investigation",
-          "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T00:40:11"
+          "status": "We're working onsite",
+          "updateTime": "2024-11-13T01:15:10"
         },
         "sort": [
-          1731458411000,
+          1731460510000,
           "A202431800492"
         ]
       }
