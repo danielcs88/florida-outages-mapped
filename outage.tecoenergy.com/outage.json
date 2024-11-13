@@ -1,5 +1,5 @@
 {
-  "took": 0,
+  "took": 2,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-8ab7c1cb-10d8-439b-8111-cfc8addd3d57",
-        "_id": "qValJJMByckvcAhRL5hT",
+        "_index": "geopoints-prod-e2baec6b-ccce-4382-b7d7-d644419adfe9",
+        "_id": "erGyJJMByzIO-BRU-1Pf",
         "_score": null,
         "_source": {
           "incidentId": "A202431721917",
@@ -28,10 +28,10 @@
           "estimatedTimeOfRestoration": "2024-11-13T04:20:00",
           "reason": "Weather-related damage to equipment",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T03:30:14"
+          "updateTime": "2024-11-13T03:45:12"
         },
         "sort": [
-          1731468614000,
+          1731469512000,
           "A202431721917"
         ]
       }
