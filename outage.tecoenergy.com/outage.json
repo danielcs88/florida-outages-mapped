@@ -1,5 +1,5 @@
 {
-  "took": 0,
+  "took": 2,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -15,8 +15,8 @@
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-e1ede317-0bd6-429c-8917-f501fc22ad91",
-        "_id": "VbHXI5MByzIO-BRUMkhJ",
+        "_index": "geopoints-prod-34ca0110-d2a3-484a-9a8b-e580fc7d5db4",
+        "_id": "drHuI5MByzIO-BRUFknM",
         "_score": null,
         "_source": {
           "incidentId": "A202431714598",
@@ -28,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T03:52:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "We're working onsite",
-          "updateTime": "2024-11-12T23:45:13"
+          "updateTime": "2024-11-13T00:10:11"
         },
         "sort": [
-          1731455113000,
+          1731456611000,
           "A202431714598"
         ]
       },
       {
-        "_index": "geopoints-prod-e1ede317-0bd6-429c-8917-f501fc22ad91",
-        "_id": "VLHXI5MByzIO-BRUMkhJ",
+        "_index": "geopoints-prod-34ca0110-d2a3-484a-9a8b-e580fc7d5db4",
+        "_id": "dbHuI5MByzIO-BRUFknM",
         "_score": null,
         "_source": {
           "incidentId": "A202431717219",
@@ -49,16 +49,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T04:30:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-12T23:45:13"
+          "updateTime": "2024-11-13T00:10:11"
         },
         "sort": [
-          1731455113000,
+          1731456611000,
           "A202431717219"
         ]
       },
       {
-        "_index": "geopoints-prod-e1ede317-0bd6-429c-8917-f501fc22ad91",
-        "_id": "VrHXI5MByzIO-BRUMkhJ",
+        "_index": "geopoints-prod-34ca0110-d2a3-484a-9a8b-e580fc7d5db4",
+        "_id": "d7HuI5MByzIO-BRUFknM",
         "_score": null,
         "_source": {
           "incidentId": "A202431720285",
@@ -70,16 +70,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T08:10:00",
           "reason": "Under investigation",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-12T23:45:13"
+          "updateTime": "2024-11-13T00:10:11"
         },
         "sort": [
-          1731455113000,
+          1731456611000,
           "A202431720285"
         ]
       },
       {
-        "_index": "geopoints-prod-e1ede317-0bd6-429c-8917-f501fc22ad91",
-        "_id": "UrHXI5MByzIO-BRUMkhJ",
+        "_index": "geopoints-prod-34ca0110-d2a3-484a-9a8b-e580fc7d5db4",
+        "_id": "c7HuI5MByzIO-BRUFknM",
         "_score": null,
         "_source": {
           "incidentId": "A202431721917",
@@ -90,35 +90,36 @@
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-13T04:20:00",
           "reason": "Weather-related damage to equipment",
-          "status": "We're working onsite",
-          "updateTime": "2024-11-12T23:45:13"
+          "status": "Additional support enroute",
+          "updateTime": "2024-11-13T00:10:11"
         },
         "sort": [
-          1731455113000,
+          1731456611000,
           "A202431721917"
         ]
       },
       {
-        "_index": "geopoints-prod-e1ede317-0bd6-429c-8917-f501fc22ad91",
-        "_id": "U7HXI5MByzIO-BRUMkhJ",
+        "_index": "geopoints-prod-34ca0110-d2a3-484a-9a8b-e580fc7d5db4",
+        "_id": "dLHuI5MByzIO-BRUFknM",
         "_score": null,
         "_source": {
-          "incidentId": "A202431722866",
+          "incidentId": "A202431800198",
           "polygonCenter": [
-            -82.41976000079481,
-            27.972079996742842
+            -82.60702000070353,
+            28.007109996721926
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T05:30:00",
+          "estimatedTimeOfRestoration": "2024-11-13T06:10:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-12T23:45:13"
+          "updateTime": "2024-11-13T00:10:11"
         },
         "sort": [
-          1731455113000,
-          "A202431722866"
+          1731456611000,
+          "A202431800198"
         ]
       }
     ]
-  }
+  },
+  "cache": true
 }
