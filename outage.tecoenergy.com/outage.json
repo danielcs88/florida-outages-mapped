@@ -1,5 +1,5 @@
 {
-  "took": 3,
+  "took": 1,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -9,14 +9,14 @@
   },
   "hits": {
     "total": {
-      "value": 37,
+      "value": 23,
       "relation": "eq"
     },
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "P1ZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "1FaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431805482",
@@ -25,19 +25,19 @@
             27.984949996734645
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T12:20:00",
+          "estimatedTimeOfRestoration": "2024-11-13T15:50:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431805482"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "VVZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "5FaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431806097",
@@ -48,17 +48,17 @@
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-13T19:00:00",
           "reason": "Under investigation",
-          "status": "Additional support enroute",
-          "updateTime": "2024-11-13T11:45:11"
+          "status": "We're working onsite",
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431806097"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "UVZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "4VaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431806593",
@@ -70,37 +70,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T19:50:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431806593"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "UlZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431807788",
-          "polygonCenter": [
-            -82.33046000084482,
-            27.87372999679935
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T15:10:00",
-          "reason": "Pending Investigation",
-          "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431807788"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "TFZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "3FaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431807895",
@@ -112,16 +91,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T21:10:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431807895"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "TlZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "3laBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431807958",
@@ -133,16 +112,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T15:20:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431807958"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "TVZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "3VaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431807991",
@@ -154,16 +133,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T15:20:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431807991"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "U1ZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "4laBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431808111",
@@ -175,16 +154,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T21:30:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431808111"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "VFZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "41aBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431808115",
@@ -196,16 +175,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T21:30:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431808115"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "N1ZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "01aBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431808896",
@@ -217,16 +196,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T22:10:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431808896"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "SFZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "1laBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431809432",
@@ -238,16 +217,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T14:20:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431809432"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "T1ZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "31aBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431810359",
@@ -259,16 +238,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T22:50:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431810359"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "UFZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "4FaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431810382",
@@ -280,16 +259,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T22:50:00",
           "reason": "Pending Investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431810382"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "VlZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "5VaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431810545",
@@ -301,37 +280,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T17:00:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431810545"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "V1ZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431810555",
-          "polygonCenter": [
-            -82.17456000093458,
-            28.053309996697898
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:10:00",
-          "reason": "Pending Investigation",
-          "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431810555"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "WFZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "5laBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431810586",
@@ -342,17 +300,17 @@
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-13T17:10:00",
           "reason": "Damage to Tampa Electric equipment",
-          "status": "We're on our way to investigate",
-          "updateTime": "2024-11-13T11:45:11"
+          "status": "Additional support enroute",
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431810586"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "WVZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "6FaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431811039",
@@ -364,289 +322,16 @@
           "estimatedTimeOfRestoration": "2024-11-13T23:20:00",
           "reason": "Under investigation",
           "status": "We're working onsite",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431811039"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "NVZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811219",
-          "polygonCenter": [
-            -82.13189158382559,
-            28.091949832984334
-          ],
-          "customerCount": 2,
-          "estimatedTimeOfRestoration": "2024-11-13T23:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811219"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "NlZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811243",
-          "polygonCenter": [
-            -82.27444000087702,
-            27.94617999675844
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811243"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "OFZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811270",
-          "polygonCenter": [
-            -82.13967833095398,
-            28.01902616671761
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811270"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "OVZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811279",
-          "polygonCenter": [
-            -82.07884060197787,
-            27.964097528257554
-          ],
-          "customerCount": 2,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811279"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "OlZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811294",
-          "polygonCenter": [
-            -82.08464000098498,
-            27.985409996737214
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811294"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "O1ZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811296",
-          "polygonCenter": [
-            -82.08463000098487,
-            27.981749996739417
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811296"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "PFZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811298",
-          "polygonCenter": [
-            -82.08457000098498,
-            27.982379996738917
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T23:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811298"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "PVZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811306",
-          "polygonCenter": [
-            -82.06354000099678,
-            27.970639996745724
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811306"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "PlZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811311",
-          "polygonCenter": [
-            -82.07814000098828,
-            27.95228999675603
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811311"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "QFZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811326",
-          "polygonCenter": [
-            -82.06505451043526,
-            27.97075000407053
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811326"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "QVZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811338",
-          "polygonCenter": [
-            -82.06339000099679,
-            27.969469996746625
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811338"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "QlZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811343",
-          "polygonCenter": [
-            -82.06769000099442,
-            27.970589996745726
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811343"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "Q1ZqJpMByckvcAhRca5O",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431811344",
-          "polygonCenter": [
-            -82.06262000099728,
-            27.970739996745635
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:40:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
-        },
-        "sort": [
-          1731498311000,
-          "A202431811344"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "RFZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "1VaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
           "incidentId": "A202431811354",
@@ -658,137 +343,158 @@
           "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
+          1731499812000,
           "A202431811354"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "RVZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "51aBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
-          "incidentId": "A202431811355",
+          "incidentId": "A202431811707",
           "polygonCenter": [
-            -82.10040000097564,
-            27.951669996756326
+            -82.47698006134044,
+            28.008053749162364
           ],
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
-          "A202431811355"
+          1731499812000,
+          "A202431811707"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "RlZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "0laBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
-          "incidentId": "A202431811399",
+          "incidentId": "A202431811832",
           "polygonCenter": [
-            -82.41864000079552,
-            27.973109996742153
+            -82.44851075950601,
+            27.712486869919175
           ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
+          "customerCount": 10,
+          "estimatedTimeOfRestoration": "2024-11-13T23:50:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
-          "A202431811399"
+          1731499812000,
+          "A202431811832"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "R1ZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "11aBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
-          "incidentId": "A202431811406",
+          "incidentId": "A202431812143",
           "polygonCenter": [
-            -82.41879000079541,
-            27.973519996741857
+            -82.4444146120915,
+            28.052397551692923
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
+          "estimatedTimeOfRestoration": "2024-11-13T18:10:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
-          "A202431811406"
+          1731499812000,
+          "A202431812143"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "SVZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "2FaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
-          "incidentId": "A202431811407",
+          "incidentId": "A202431812150",
           "polygonCenter": [
-            -82.41863850079552,
-            27.973529996741945
+            -82.46011000077164,
+            27.913839996775682
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
+          "estimatedTimeOfRestoration": "2024-11-13T18:10:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
-          "A202431811407"
+          1731499812000,
+          "A202431812150"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "SlZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "2VaBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
-          "incidentId": "A202431811412",
+          "incidentId": "A202431812154",
           "polygonCenter": [
-            -82.41879000079541,
-            27.973109996742252
+            -82.41918946373721,
+            27.973319996448133
           ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
-          "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "customerCount": 11,
+          "estimatedTimeOfRestoration": "2024-11-14T00:10:00",
+          "reason": "Under investigation",
+          "status": "We're working onsite",
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
-          "A202431811412"
+          1731499812000,
+          "A202431812154"
         ]
       },
       {
-        "_index": "geopoints-prod-063187b3-4779-4a9a-aa63-7a8f5cb5566b",
-        "_id": "S1ZqJpMByckvcAhRca5O",
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "2laBJpMByckvcAhRRa8U",
         "_score": null,
         "_source": {
-          "incidentId": "A202431811445",
+          "incidentId": "A202431812165",
           "polygonCenter": [
-            -82.06824000099411,
-            27.969939996746124
+            -82.57331000072261,
+            28.008569996721143
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-13T17:50:00",
+          "estimatedTimeOfRestoration": "2024-11-13T18:10:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-13T11:45:11"
+          "updateTime": "2024-11-13T12:10:12"
         },
         "sort": [
-          1731498311000,
-          "A202431811445"
+          1731499812000,
+          "A202431812165"
+        ]
+      },
+      {
+        "_index": "geopoints-prod-3516bd7b-fa84-40cd-aa5b-a23e9e3b7a79",
+        "_id": "21aBJpMByckvcAhRRa8U",
+        "_score": null,
+        "_source": {
+          "incidentId": "A202431812214",
+          "polygonCenter": [
+            -82.08217000098612,
+            27.959009996752428
+          ],
+          "customerCount": 1,
+          "estimatedTimeOfRestoration": "2024-11-13T18:10:00",
+          "reason": "Pending Investigation",
+          "status": "We're aware of the outage",
+          "updateTime": "2024-11-13T12:10:12"
+        },
+        "sort": [
+          1731499812000,
+          "A202431812214"
         ]
       }
     ]
