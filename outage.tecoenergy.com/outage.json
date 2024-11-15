@@ -9,35 +9,14 @@
   },
   "hits": {
     "total": {
-      "value": 3,
+      "value": 2,
       "relation": "eq"
     },
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-8deebf82-2f04-492b-9bd7-34833a8d0e69",
-        "_id": "Vlf_LpMByckvcAhRs07I",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202431814296",
-          "polygonCenter": [
-            -82.57037431502079,
-            28.022788664395932
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-15T04:43:00",
-          "reason": "Damage to Tampa Electric equipment",
-          "status": "We're working onsite",
-          "updateTime": "2024-11-15T03:45:13"
-        },
-        "sort": [
-          1731642313000,
-          "A202431814296"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-8deebf82-2f04-492b-9bd7-34833a8d0e69",
-        "_id": "V1f_LpMByckvcAhRs07I",
+        "_index": "geopoints-prod-35321315-c992-41ab-9561-f620085bed14",
+        "_id": "67IWL5MByzIO-BRUtnk_",
         "_score": null,
         "_source": {
           "incidentId": "A202431911008",
@@ -49,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-15T04:43:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-15T03:45:13"
+          "updateTime": "2024-11-15T04:10:10"
         },
         "sort": [
-          1731642313000,
+          1731643810000,
           "A202431911008"
         ]
       },
       {
-        "_index": "geopoints-prod-8deebf82-2f04-492b-9bd7-34833a8d0e69",
-        "_id": "VVf_LpMByckvcAhRs07I",
+        "_index": "geopoints-prod-35321315-c992-41ab-9561-f620085bed14",
+        "_id": "7LIWL5MByzIO-BRUtnk_",
         "_score": null,
         "_source": {
           "incidentId": "A202432002606",
@@ -70,10 +49,10 @@
           "estimatedTimeOfRestoration": "2024-11-15T07:40:00",
           "reason": "Pending Investigation",
           "status": "We're aware of the outage",
-          "updateTime": "2024-11-15T03:45:13"
+          "updateTime": "2024-11-15T04:10:10"
         },
         "sort": [
-          1731642313000,
+          1731643810000,
           "A202432002606"
         ]
       }
