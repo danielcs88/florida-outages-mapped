@@ -9,14 +9,14 @@
   },
   "hits": {
     "total": {
-      "value": 4,
+      "value": 5,
       "relation": "eq"
     },
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-e89bb286-b1dc-44f5-be56-552f6da2073c",
-        "_id": "DFjsOZMByckvcAhRp1BZ",
+        "_index": "geopoints-prod-2e005a0b-6f44-4695-9d9f-f589c0e9b50e",
+        "_id": "M1gROpMByckvcAhRSFG7",
         "_score": null,
         "_source": {
           "incidentId": "A202432203816",
@@ -26,18 +26,18 @@
           ],
           "customerCount": 1,
           "estimatedTimeOfRestoration": "2024-11-17T09:00:00",
-          "reason": "Pending Investigation",
+          "reason": "Damage to Tampa Electric equipment",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-17T06:40:10"
+          "updateTime": "2024-11-17T07:20:11"
         },
         "sort": [
-          1731825610000,
+          1731828011000,
           "A202432203816"
         ]
       },
       {
-        "_index": "geopoints-prod-e89bb286-b1dc-44f5-be56-552f6da2073c",
-        "_id": "DVjsOZMByckvcAhRp1BZ",
+        "_index": "geopoints-prod-2e005a0b-6f44-4695-9d9f-f589c0e9b50e",
+        "_id": "NVgROpMByckvcAhRSFG7",
         "_score": null,
         "_source": {
           "incidentId": "A202432205230",
@@ -49,16 +49,16 @@
           "estimatedTimeOfRestoration": "2024-11-17T10:30:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-17T06:40:10"
+          "updateTime": "2024-11-17T07:20:11"
         },
         "sort": [
-          1731825610000,
+          1731828011000,
           "A202432205230"
         ]
       },
       {
-        "_index": "geopoints-prod-e89bb286-b1dc-44f5-be56-552f6da2073c",
-        "_id": "DljsOZMByckvcAhRp1BZ",
+        "_index": "geopoints-prod-2e005a0b-6f44-4695-9d9f-f589c0e9b50e",
+        "_id": "N1gROpMByckvcAhRSFG7",
         "_score": null,
         "_source": {
           "incidentId": "A202432205322",
@@ -69,33 +69,54 @@
           "customerCount": 5,
           "estimatedTimeOfRestoration": "2024-11-17T10:40:00",
           "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-17T06:40:10"
+          "status": "We're on our way to investigate",
+          "updateTime": "2024-11-17T07:20:11"
         },
         "sort": [
-          1731825610000,
+          1731828011000,
           "A202432205322"
         ]
       },
       {
-        "_index": "geopoints-prod-e89bb286-b1dc-44f5-be56-552f6da2073c",
-        "_id": "D1jsOZMByckvcAhRp1BZ",
+        "_index": "geopoints-prod-2e005a0b-6f44-4695-9d9f-f589c0e9b50e",
+        "_id": "NlgROpMByckvcAhRSFG7",
         "_score": null,
         "_source": {
-          "incidentId": "A202432205334",
+          "incidentId": "A202432205371",
           "polygonCenter": [
-            -81.7448800011778,
-            28.009399996726213
+            -82.06460000099706,
+            28.066979996691092
           ],
           "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-17T10:40:00",
+          "estimatedTimeOfRestoration": "2024-11-17T10:50:00",
           "reason": "Pending Investigation",
-          "status": "We're aware of the outage",
-          "updateTime": "2024-11-17T06:40:10"
+          "status": "We're on our way to investigate",
+          "updateTime": "2024-11-17T07:20:11"
         },
         "sort": [
-          1731825610000,
-          "A202432205334"
+          1731828011000,
+          "A202432205371"
+        ]
+      },
+      {
+        "_index": "geopoints-prod-2e005a0b-6f44-4695-9d9f-f589c0e9b50e",
+        "_id": "NFgROpMByckvcAhRSFG7",
+        "_score": null,
+        "_source": {
+          "incidentId": "A202432205424",
+          "polygonCenter": [
+            -82.24984000089079,
+            27.920589996773234
+          ],
+          "customerCount": 1,
+          "estimatedTimeOfRestoration": "2024-11-17T10:50:00",
+          "reason": "Pending Investigation",
+          "status": "We're working onsite",
+          "updateTime": "2024-11-17T07:20:11"
+        },
+        "sort": [
+          1731828011000,
+          "A202432205424"
         ]
       }
     ]
