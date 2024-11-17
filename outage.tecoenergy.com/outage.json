@@ -9,35 +9,14 @@
   },
   "hits": {
     "total": {
-      "value": 3,
+      "value": 2,
       "relation": "eq"
     },
     "max_score": null,
     "hits": [
       {
-        "_index": "geopoints-prod-6aab88d1-1541-4ced-a435-24eed27b950e",
-        "_id": "TrRjOJMByzIO-BRUGRfK",
-        "_score": null,
-        "_source": {
-          "incidentId": "A202432113697",
-          "polygonCenter": [
-            -82.56342000072806,
-            27.975579996739953
-          ],
-          "customerCount": 1,
-          "estimatedTimeOfRestoration": "2024-11-17T01:58:00",
-          "reason": "Damage to Tampa Electric equipment",
-          "status": "We're working onsite",
-          "updateTime": "2024-11-16T23:30:13"
-        },
-        "sort": [
-          1731799813000,
-          "A202432113697"
-        ]
-      },
-      {
-        "_index": "geopoints-prod-6aab88d1-1541-4ced-a435-24eed27b950e",
-        "_id": "TbRjOJMByzIO-BRUGRfK",
+        "_index": "geopoints-prod-09073ff3-f0e9-4e9c-8eae-dd1b8e453952",
+        "_id": "11hwOJMByckvcAhRuxFI",
         "_score": null,
         "_source": {
           "incidentId": "A202432116577",
@@ -49,16 +28,16 @@
           "estimatedTimeOfRestoration": "2024-11-17T00:20:00",
           "reason": "Damage to Tampa Electric equipment",
           "status": "Additional support enroute",
-          "updateTime": "2024-11-16T23:30:13"
+          "updateTime": "2024-11-16T23:45:13"
         },
         "sort": [
-          1731799813000,
+          1731800713000,
           "A202432116577"
         ]
       },
       {
-        "_index": "geopoints-prod-6aab88d1-1541-4ced-a435-24eed27b950e",
-        "_id": "T7RjOJMByzIO-BRUGRfK",
+        "_index": "geopoints-prod-09073ff3-f0e9-4e9c-8eae-dd1b8e453952",
+        "_id": "1lhwOJMByckvcAhRuxFI",
         "_score": null,
         "_source": {
           "incidentId": "A202432118674",
@@ -70,10 +49,10 @@
           "estimatedTimeOfRestoration": "2024-11-17T03:30:00",
           "reason": "Pending Investigation",
           "status": "We're on our way to investigate",
-          "updateTime": "2024-11-16T23:30:13"
+          "updateTime": "2024-11-16T23:45:13"
         },
         "sort": [
-          1731799813000,
+          1731800713000,
           "A202432118674"
         ]
       }
